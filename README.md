@@ -51,9 +51,8 @@ Installation process has been completed at previous step. Now we will perform au
 8) Wait until parking process finishes.
 
 ## Screenshots
-Parking process examples: https://www.youtube.com/watch?v=28I-RleOdqU 
-                          https://www.youtube.com/watch?v=6cVpPMTL9zc
-Images from parking process can be visualized from images folder.
+- Parking process examples: https://www.youtube.com/watch?v=28I-RleOdqU https://www.youtube.com/watch?v=6cVpPMTL9zc
+- Images from parking process can be visualized from images folder.
 
 ## Acknowledgements
 Give credit to those who have contributed to the project or provided inspiration. Include links to any resources or tools used in the project.
