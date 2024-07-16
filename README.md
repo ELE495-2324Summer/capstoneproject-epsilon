@@ -31,7 +31,7 @@ Describe the steps required to install and set up the project. Include any prere
 3) You need to configure Wi-Fi connection to your Jetson Board. In order to do that create a hotspot using your smart phone, computer etc. Important point is that your hotspot newtork name and password must be fixed because your JetBot will be using that during the project.
 4) After completing these steps hotspot must be connected to JetBot. To do that plug your JetBot to your computer and open PuTTy(https://www.putty.org/) terminal. Select Connection type as Serial and write your Serial line port. Write the speed as 115200 b/s and press Open.
 5) After completing 4th step you must be able to visiualize command windows. Enter your Wi-Fi name and password to this code : 
-    $ sudo nmcli device wifi connect <MY_WIFI_AP> password <MY_WIFI_PASSWORD> 
+   "$ sudo nmcli device wifi connect <MY_WIFI_AP> password <MY_WIFI_PASSWORD>" 
     And press enter to finish your Wi-Fi configuration. Now you must be able to connect your hotspot point automatically. 
     Now you can unplug your cable.
 6) Now you can visiulazie your IP address onto JetBot screen.
