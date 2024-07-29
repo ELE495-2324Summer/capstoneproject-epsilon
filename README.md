@@ -59,7 +59,6 @@ Some images from project:
 
 - Parking process examples:
 - https://www.youtube.com/watch?v=28I-RleOdqU
--
 - https://www.youtube.com/watch?v=6cVpPMTL9zc
 
 
