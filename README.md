@@ -67,10 +67,14 @@ Parking process examples:
 
 ## Acknowledgements
 Here are the contributors and our resources.
+
 Contributors:
+
 - [Seteney Meliş](https://github.com/Seteney)
 - [Eren Çağlar](https://github.com/eren-caglar)
 - [Çetin Güleç](https://github.com/cetingulec)
 - [Recai Efe Dik](https://github.com/RecaiEfeDik)
+  
 Resources:
+
 - [Resource](https://www.nvidia.com)
