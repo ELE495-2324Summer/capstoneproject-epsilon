@@ -51,8 +51,14 @@ Installation process has been completed at previous step. Now we will perform au
 8) Wait until parking process finishes.
 
 ## Screenshots
-- Parking process examples: https://www.youtube.com/watch?v=28I-RleOdqU https://www.youtube.com/watch?v=6cVpPMTL9zc
-- ![Logo](https://github.com/ELE495-2324Summer/capstoneproject-epsilon/blob/main/Images/img_1.jpg)
+Some images from project:
+<img src="https://github.com/ELE495-2324Summer/capstoneproject-epsilon/blob/main/Images/img_1.jpg" alt="Logo" width="300" height="200"/>
+
+- Parking process examples:
+- https://www.youtube.com/watch?v=28I-RleOdqU
+-
+- https://www.youtube.com/watch?v=6cVpPMTL9zc
+
 
 
 ## Acknowledgements
