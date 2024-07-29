@@ -55,7 +55,7 @@ Installation process has been completed at previous step. Now we will perform au
 - Images from parking process can be visualized from images folder.
 
 ## Acknowledgements
-Give credit to those who have contributed to the project or provided inspiration. Include links to any resources or tools used in the project.
+Here are the contributors.
 
 [Contributor 1](https://github.com/Seteney)
 [Contributor 2](https://github.com/eren-caglar)
