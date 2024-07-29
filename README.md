@@ -52,7 +52,7 @@ Installation process has been completed at previous step. Now we will perform au
 
 ## Screenshots
 - Parking process examples: https://www.youtube.com/watch?v=28I-RleOdqU https://www.youtube.com/watch?v=6cVpPMTL9zc
-- Images from parking process can be visualized from images folder.
+- ![Logo]([https://github.com/kullanici_adi/repo_adi/blob/main/images/logo.png](https://github.com/ELE495-2324Summer/capstoneproject-epsilon/blob/main/Images/img_1.jpg))
 
 ## Acknowledgements
 Here are the contributors.
