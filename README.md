@@ -66,7 +66,7 @@ Parking process examples:
 
 
 ## Acknowledgements
-Here are the contributors.
+Here are the contributors and our resources.
 
 - [Seteney Meliş](https://github.com/Seteney)
 - [Eren Çağlar](https://github.com/eren-caglar)
